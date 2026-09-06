@@ -31,7 +31,11 @@ yarn-error.*
 *.pem
 
 # local env files
-.env*.local
+.env*
+
+# editor swap files
+*.swp
+*.swo
 
 # typescript
 *.tsbuildinfo
